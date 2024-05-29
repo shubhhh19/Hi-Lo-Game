@@ -30,3 +30,8 @@ This repository contains an HTML and JavaScript implementation of a Hi-Lo game. 
 - Adding sound effects to enhance the gaming experience.
 - Implementing a leaderboard to track high scores.
 - Optimizing the code for better performance and compatibility with additional web browsers.
+
+### Screenshots:
+<img src="https://github.com/shubhhh19/Hi-Lo-Game/assets/126296317/72b85dc1-342a-4a68-8397-541001818513" width="400" height="200">
+<img src="https://github.com/shubhhh19/Hi-Lo-Game/assets/126296317/82e7f3ea-e607-41e3-a307-06744f7b83e4" width="400" height="200">
+<img src="https://github.com/shubhhh19/Hi-Lo-Game/assets/126296317/aa2b0f06-90ca-4853-b24f-63fec61a1b4b" width="400" height="200">
